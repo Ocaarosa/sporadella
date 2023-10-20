@@ -1,0 +1,6 @@
+print('Ini program pertama saya')
+print('Nama saya oca')
+pint('Alamat kampung jawa sungailiat')
+print('Hobi saya main game dan scroll tiktok')
+print('Saya berasa dari sekolah SMK N ! Sungailiat')
+print('Saya lahir tanggal 26')
